@@ -1,4 +1,4 @@
-AreaCode,Name,ふりがな,CityCode,Name.1,ふりがな.1,PointCode,Name.2,ふりがな.2
+areaforecastlocale_code,areaforecastlocale_name,areaforecastlocale_kana,areainformationcity_code,areainformationcity_name,areainformationcity_kane,areainformationcity_code,pointseismicintensity_name,pointseismicintensity_kana
 100,石狩地方北部,いしかりちほうほくぶ,01235,石狩市,いしかりし,123500,石狩市花川,いしかりしはなかわ
 100,石狩地方北部,いしかりちほうほくぶ,01235,石狩市,いしかりし,123501,石狩市聚富,いしかりししっぷ
 100,石狩地方北部,いしかりちほうほくぶ,01235,石狩市,いしかりし,123520,石狩市厚田,いしかりしあつた
