@@ -1,7 +1,4 @@
-"AreaForecastLocalE ・ AreaInformationCity ・ PointSeismicIntensity コード表
-（種別：""地震情報／細分区域""・""気象・地震・火山情報／市町村等""・""震度観測点""）",,,,,,,,
-AreaForecastLocalE,,,AreaInformationCity,,,震度観測点,,
-Code,Name,ふりがな,Code,Name,ふりがな,Code,Name,ふりがな
+AreaCode,Name,ふりがな,CityCode,Name,ふりがな,PointCode,Name,ふりがな
 100,石狩地方北部,いしかりちほうほくぶ,0123500,石狩市,いしかりし,0123500,石狩市花川,いしかりしはなかわ
 100,石狩地方北部,いしかりちほうほくぶ,0123500,石狩市,いしかりし,0123501,石狩市聚富,いしかりししっぷ
 100,石狩地方北部,いしかりちほうほくぶ,0123500,石狩市,いしかりし,0123520,石狩市厚田,いしかりしあつた
